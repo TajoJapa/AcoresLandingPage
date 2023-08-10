@@ -83,7 +83,7 @@ export default class MyApp extends App {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
-          <title>Residêncial Curuça</title>
+          <title>Residêncial Açores</title>
         </Head>
         <LandingPage {...pageProps} />
       </React.Fragment>

@@ -50,7 +50,7 @@ export default function HeaderLinks(props) {
           color="transparent"
           className={classes.navLink}
           >
-          <Icon className={classes.icons}>apartment</Icon> Conheça o Curuça
+          <Icon className={classes.icons}>apartment</Icon> Conheça o Açores
         </Button>
       </ListItem>
       <ListItem className={classes.listItem}>

@@ -120,7 +120,7 @@ export default function LandingPage(props) {
         <GridItem justify="center" style={{color:'#3C4858'}} xs={12} sm={12} md={10} >
           <h2 className={classes.title} style={{color:'#3C4858'}}>Localização</h2>
           <h5 className={classes.description}>
-          Venha morar na Vila Guarani em Mauá! Os apartamentos do Residencial Curuça são perfeitos para você e sua família, com Suíte e Sacada Grill. Não perca essa oportunidade!
+          Venha morar no Centro Alto de Ribeirão Pires!! Os apartamentos do Residencial Açores são perfeitos para você e sua família, com Suíte e Sacada Grill. Não perca essa oportunidade!
           </h5>
         </GridItem>
           </GridContainer>
@@ -128,7 +128,7 @@ export default function LandingPage(props) {
 
           <Grid xs={10} sm={6} md={4}>
           <div   id='Localizacao' > 
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d363.54160927315456!2d-46.44864448413127!3d-23.66524516730975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spt-BR!2sus!4v1685062902438!5m2!1spt-BR!2sus" 
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4123.765519420179!2d-46.420197811690464!3d-23.71577473747562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce6ceb8ff9efef%3A0x55c00325dc5d9df1!2sR.%20Ov%C3%ADdio%20Abrantes%2C%20257%20-%20Centro%20Alto%2C%20Ribeir%C3%A3o%20Pires%20-%20SP%2C%2009424-150!5e1!3m2!1spt-BR!2sbr!4v1691682655017!5m2!1spt-BR!2sbr"
                   width="300" 
                   height="300" 
                   style={{border:0}} 
@@ -143,7 +143,7 @@ export default function LandingPage(props) {
 <GridItem justify="center" style={{color:'#3C4858'}} xs={12} sm={12} md={8} >
   <h2 className={classes.title} style={{color:'#3C4858'}}>Plantas</h2>
   <h5 className={classes.description}>
-  O Residencial Curuça oferece uma variedade de apartamentos, com seis unidades por andar e dois elevadores. São disponibilizados cinco tipos de apartamentos, com tamanhos que variam de 53m² a 139m². As plantas foram projetadas para proporcionar conforto e praticidade aos moradores, atendendo às diferentes necessidades e preferências.
+  O Residencial Açores oferece uma variedade de apartamentos, com seis unidades por andar e dois elevadores. São disponibilizados cinco tipos de apartamentos, com tamanhos que variam de 53m² a 139m². As plantas foram projetadas para proporcionar conforto e praticidade aos moradores, atendendo às diferentes necessidades e preferências.
   </h5>
 </GridItem>
   </GridContainer>

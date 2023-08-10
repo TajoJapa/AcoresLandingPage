@@ -23,9 +23,9 @@ export default function ProductSection() {
     <div className={classes.section}>
       <GridContainer justify="center">
         <GridItem xs={12} sm={12} md={8}>
-          <h2 className={classes.title}>Conheça o Curuça</h2>
+          <h2 className={classes.title}>Conheça o Açores</h2>
           <h5 className={classes.description}>
-          Venha morar na Vila Guarani em Mauá! Os apartamentos do Residencial Curuça são perfeitos para você e sua família, com Suíte e Sacada Grill. Não perca essa oportunidade!
+          Venha morar no centro Alto de Ribeirão Pires! Os apartamentos do Residencial Açõres são perfeitos para você e sua família, com Suíte e Sacada Grill. Não perca essa oportunidade!
           </h5>
         </GridItem>
       </GridContainer>
@@ -77,7 +77,7 @@ export default function ProductSection() {
             <InfoArea
               title="Facilidades com a Caixa Econômica"
               description="A entrada é facilitada, tornando o sonho da casa própria ainda mais acessível.
-              Não deixe de conferir os valores e garantir o seu lugar no Residencial Curuça. Saiba mais detalhes e entre em contato conosco para mais informações."
+              Não deixe de conferir os valores e garantir o seu lugar no Residencial Açores. Saiba mais detalhes e entre em contato conosco para mais informações."
               icon={Fingerprint}
               vertical
             />
