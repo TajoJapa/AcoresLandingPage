@@ -33,65 +33,100 @@ export default function SectionCarousel() {
               <Carousel {...settings}>
                 <div>
                   <img
-                    src="/img/bg.png"
+                    src="/img/academia.JPG"
                     className="slick-image"
                   />
                   <div className="slick-caption">
                     <h4>
                       <LocationOn className="slick-icons" />
-                      Banheiro
+                      Academia
                     </h4>
                   </div>
                 </div>
                 <div>
                   <img
-                    src="/img/bg2.jpg"
+                    src="/img/quarto1.jpeg"
                     className="slick-image"
                   />
                   <div className="slick-caption">
                     <h4>
                       <LocationOn className="slick-icons" />
-                      Cozinha
+                      quarto 1
                     </h4>
                   </div>
                 </div>
                 <div>
                   <img
-                    src="/img/bg3.png"
+                    src="/img/quarto2.jpeg"
                     className="slick-image"
                   />
                   <div className="slick-caption">
                     <h4>
                       <LocationOn className="slick-icons" />
-                      Quarto do casal
+                      Quarto 2
                     </h4>
                   </div>
                 </div>
                 <div>
                   <img
-                    src="/img/bg4.png"
+                    src="/img/quarto3.jpeg"
                     className="slick-image"
                   />
                   <div className="slick-caption">
                     <h4>
                       <LocationOn className="slick-icons" />          
-                      Quarto Individual
+                      Quarto 3
                     </h4>
                   </div>
                 </div>
                 <div>
                   <img
-                    src="/img/bg5.png"
+                    src="/img/sacada.JPG"
                     alt="Second slide"
                     className="slick-image"
                   />
                   <div className="slick-caption">
                     <h4>
                       <LocationOn className="slick-icons" />
-                      Sala de Estar
+                      sacada
                     </h4>
                   </div>
                 </div>
+                <div>
+                  <img
+                    src="/img/sala.JPG"
+                    alt="Second slide"
+                    className="slick-image"
+                  />
+                  <div className="slick-caption">
+                    <h4>
+                      <LocationOn className="slick-icons" />
+                      Sala
+                    </h4>
+                  </div>
+                </div>
+                <div>
+                  <img
+                    src="/img/salao.JPG"
+                    alt="Second slide"
+                    className="slick-image"
+                  />
+                  <div className="slick-caption">
+                    <h4>
+                      <LocationOn className="slick-icons" />
+                      Salão
+                    </h4>
+                  </div>
+                </div>
+
+
+
+
+
+
+
+
+
               </Carousel>
             </Card>
           </GridItem>

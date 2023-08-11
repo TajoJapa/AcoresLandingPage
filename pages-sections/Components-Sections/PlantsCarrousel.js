@@ -33,7 +33,7 @@ export default function PlantasCarousel() {
               <Carousel {...settings}>
                 <div>
                   <img
-                    src="/img/arrombado.png"
+                    src="/img/planta1.png"
                     className="slick-image"
                   />
                   <div className="slick-caption">
@@ -45,7 +45,7 @@ export default function PlantasCarousel() {
                 </div>
                 <div>
                   <img
-                    src="/img/bemlegal.png"
+                    src="/img/planta2.png"
                     className="slick-image"
                   />
                   <div className="slick-caption">
@@ -57,7 +57,7 @@ export default function PlantasCarousel() {
                 </div>
                 <div>
                   <img
-                    src="/img/cufedido.png"
+                    src="/img/planta3.png"
                     className="slick-image"
                   />
                   <div className="slick-caption">
@@ -69,7 +69,7 @@ export default function PlantasCarousel() {
                 </div>
                 <div>
                   <img
-                    src="/img/apbunito.png"
+                    src="/img/planta4.png"
                     className="slick-image"
                   />
                   <div className="slick-caption">

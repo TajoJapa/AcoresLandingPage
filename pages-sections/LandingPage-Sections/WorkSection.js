@@ -19,7 +19,7 @@ export default function WorkSection() {
             Fale com um consultor sobre o Residencial Açores
           </h2>
           <h4 className={classes.description}>
-            Saiba como realizar o sonho de morar em um apartamento novo com toda a qualidade de vida que você deseja no centro de Mauá
+            Saiba como realizar o sonho de morar em um apartamento novo com toda a qualidade de vida que você deseja no centro de Ribeirão Pires
           </h4>
           <form action="https://formsubmit.co/weslleycassio18@gmail.com" method="POST">
   <GridContainer>

@@ -73,9 +73,9 @@ export default function LandingPage(props) {
         <div  className={classes.container}>
           <GridContainer>
             <GridItem xs={12} sm={12} md={6}>
-              <h1 className={classes.title}>O Endereço que você sempre quis</h1>
+              <h1 className={classes.title}>Qualidade de vida e segurança para toda sua família!</h1>
               <h4>
-                Seu novo lar na região mais prestigiada da cidade.
+                Viva perto da natureza e da cidade.
               </h4>
               <br />
               {/* <Button
@@ -143,7 +143,7 @@ export default function LandingPage(props) {
 <GridItem justify="center" style={{color:'#3C4858'}} xs={12} sm={12} md={8} >
   <h2 className={classes.title} style={{color:'#3C4858'}}>Plantas</h2>
   <h5 className={classes.description}>
-  O Residencial Açores oferece uma variedade de apartamentos, com seis unidades por andar e dois elevadores. São disponibilizados cinco tipos de apartamentos, com tamanhos que variam de 53m² a 139m². As plantas foram projetadas para proporcionar conforto e praticidade aos moradores, atendendo às diferentes necessidades e preferências.
+  O Residencial Açores oferece uma variedade de apartamentos, com seis unidades por andar e dois elevadores. São disponibilizados cinco tipos de apartamentos, com tamanhos que variam de 82m² a 89m². As plantas foram projetadas para proporcionar conforto e praticidade aos moradores, atendendo às diferentes necessidades e preferências.
   </h5>
 </GridItem>
   </GridContainer>
