@@ -84,7 +84,14 @@ export default function ProductSection() {
             
           </GridItem>
         </GridContainer>
+        <div id="VideoSection">
+       <video controls width="640" height="360">
+      <source src="video/Apresentação.mp4" type="video/mp4" />
+      Seu navegador não suporta o elemento de vídeo.
+    </video>
+     </div>
       </div>
     </div>
+    
   );
 }

@@ -33,7 +33,7 @@ export default function SectionCarousel() {
               <Carousel {...settings}>
                 <div>
                   <img
-                    src="/img/academia.JPG"
+                    src="/img/academia.jpeg"
                     className="slick-image"
                   />
                   <div className="slick-caption">
@@ -81,7 +81,7 @@ export default function SectionCarousel() {
                 </div>
                 <div>
                   <img
-                    src="/img/sacada.JPG"
+                    src="/img/varanda.jpeg"
                     alt="Second slide"
                     className="slick-image"
                   />
@@ -94,7 +94,7 @@ export default function SectionCarousel() {
                 </div>
                 <div>
                   <img
-                    src="/img/sala.JPG"
+                    src="/img/sala.jpeg"
                     alt="Second slide"
                     className="slick-image"
                   />
@@ -107,7 +107,7 @@ export default function SectionCarousel() {
                 </div>
                 <div>
                   <img
-                    src="/img/salao.JPG"
+                    src="/img/salao.jpeg"
                     alt="Second slide"
                     className="slick-image"
                   />
@@ -119,18 +119,24 @@ export default function SectionCarousel() {
                   </div>
                 </div>
 
-
-
-
-
-
-
-
+                <div>
+                  <img
+                    src="/img/cozinha.jpeg"
+                    alt="Second slide"
+                    className="slick-image"
+                  />
+                  <div className="slick-caption">
+                    <h4>
+                      <LocationOn className="slick-icons" />
+                      cozinha
+                    </h4>
+                  </div>
+                </div>
 
               </Carousel>
             </Card>
-          </GridItem>
-        </GridContainer>                                                                                                                                                        
+           </GridItem>
+        </GridContainer>     
       </div>
     </div>
   );

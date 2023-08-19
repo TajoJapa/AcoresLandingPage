@@ -143,7 +143,7 @@ export default function LandingPage(props) {
 <GridItem justify="center" style={{color:'#3C4858'}} xs={12} sm={12} md={8} >
   <h2 className={classes.title} style={{color:'#3C4858'}}>Plantas</h2>
   <h5 className={classes.description}>
-  O Residencial Açores oferece uma variedade de apartamentos, com seis unidades por andar e dois elevadores. São disponibilizados cinco tipos de apartamentos, com tamanhos que variam de 82m² a 89m². As plantas foram projetadas para proporcionar conforto e praticidade aos moradores, atendendo às diferentes necessidades e preferências.
+  O Residencial Açores contará com apartamentos de 2 e 3 dormitórios em Ribeirão Pires distribuídos em plantas de 82m² e 88m². 
   </h5>
 </GridItem>
   </GridContainer>
@@ -153,6 +153,7 @@ export default function LandingPage(props) {
           </Grid>
           </GridContainer>
           <div>
+            
           <PlantasCarousel>
 
           </PlantasCarousel>

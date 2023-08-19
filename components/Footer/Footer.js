@@ -33,7 +33,7 @@ export default function Footer(props) {
           <List className={classes.list}>
             <ListItem className={classes.inlineBlock}>
               <a
-                href="https://www.youtube.com/watch?v=jk_T3I95d6s&list=RDEMllRsihXH6ibsIkOWaZX1Ig&start_radio=1"
+                href=""
                 className={classes.block}
                 target="_blank"
               >

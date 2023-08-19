@@ -31,51 +31,28 @@ export default function PlantasCarousel() {
           <GridItem xs={12} sm={12} md={8} className={classes.marginAuto}>
             <Card carousel sx={{ width: "100%", height: "100%" }}>
               <Carousel {...settings}>
+                
                 <div>
                   <img
-                    src="/img/planta1.png"
+                    src="/img/planta82m.png"
                     className="slick-image"
                   />
                   <div className="slick-caption">
                     <h4>
                       <LocationOn className="slick-icons" />
-                      Banheiro
+                      82m2
                     </h4>
                   </div>
                 </div>
                 <div>
                   <img
-                    src="/img/planta2.png"
+                    src="/img/planta88m.png"
                     className="slick-image"
                   />
                   <div className="slick-caption">
                     <h4>
                       <LocationOn className="slick-icons" />
-                      Cozinha
-                    </h4>
-                  </div>
-                </div>
-                <div>
-                  <img
-                    src="/img/planta3.png"
-                    className="slick-image"
-                  />
-                  <div className="slick-caption">
-                    <h4>
-                      <LocationOn className="slick-icons" />
-                      Quarto do casal
-                    </h4>
-                  </div>
-                </div>
-                <div>
-                  <img
-                    src="/img/planta4.png"
-                    className="slick-image"
-                  />
-                  <div className="slick-caption">
-                    <h4>
-                      <LocationOn className="slick-icons" />          
-                      Quarto Individual
+                      88m2
                     </h4>
                   </div>
                 </div>
